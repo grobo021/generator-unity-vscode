@@ -20,8 +20,8 @@ yo unity-vscode
 Now you can get Intellisense with your unity project in VSCode!
 
 ## Getting To Know Yeoman
- * Yeoman is a person with a golden heart who helps devs with generating templates.
- * He makes it easy to manage all the multiple generators you may have.
+ * Yeoman is a ~~tool~~ person with a golden heart who helps devs with generating templates.
+ * ~~It~~ He makes it easy to manage all the multiple generators you may have.
  * Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## Todo List
