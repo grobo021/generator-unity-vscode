@@ -1,6 +1,6 @@
 {
   "name": "generator-unity-vscode",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generates files needed by VSCode for Unity support",
   "homepage": "",
   "author": {

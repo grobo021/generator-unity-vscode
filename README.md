@@ -10,7 +10,7 @@ npm install -g yo
 npm install -g generator-unity-vscode
 ```
 
-Then generate your new project:
+Then run this in your unity project:
 
 ```bash
 yo unity-vscode
