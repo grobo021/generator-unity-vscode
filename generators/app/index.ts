@@ -2,7 +2,7 @@ import Generator from 'yeoman-generator';
 import chalk from 'chalk';
 import yosay from 'yosay';
 
-module.exports = class extends Generator {
+export default class extends Generator {
   prompting() {
     this.log(
       yosay(`Welcome to the ${chalk.red('generator-unity-vscode')} generator!`)
