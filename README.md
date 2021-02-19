@@ -3,7 +3,10 @@
 
 ## Installation
 
-First, install the [C# Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) [Yeoman](http://yeoman.io) and generator-unity-vscode using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+Install the following
+* [C# Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) 
+
+* [Yeoman](http://yeoman.io) and generator-unity-vscode using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 code --install-extension ms-dotnettools.csharp
